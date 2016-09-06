@@ -1,5 +1,5 @@
 # LocationInPolygon
-Is location in polygon, the algorithm is from
+Is location in polygon, this can use for get country code offline, the algorithm is from
 
 > [PNPOLY - Point Inclusion in Polygon Test
 W. Randolph Franklin (WRF)](https://www.ecse.rpi.edu/Homepages/wrf/Research/Short_Notes/pnpoly.html#The C Code)
